@@ -3,6 +3,7 @@ name: Delete branch actions
 on:
   delete:
     branches:
+      - 'support-NaN.1'
       - 'support-1.**'
       - 'support-2.**'
 
